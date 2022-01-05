@@ -16,7 +16,7 @@ public class Main {
       else if(cycles[i]>400 && cycles[i]<=919)
         counts.mediumCount++;
       else
-        count.highCount++;
+        counts.highCount++;
     }
     return counts;
   }
